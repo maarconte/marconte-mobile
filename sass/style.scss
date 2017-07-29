@@ -1,0 +1,23 @@
+/*
+ Theme Name: Marconte Mobile
+ Theme URI: http://m-arconte.fr
+ Author: Mathilde Arconte
+ Author URI: http://m-arconte.fr
+ Description: marconte 
+ Version: 1
+
+ Template: marconte
+*/
+
+
+@import url(../marconte/style.css);
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+@import "navigation/menus";
+
+/*--------------------------------------------------------------
+## Layout
+--------------------------------------------------------------*/
+@import "layout/front-page";
